@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lizz3108
-- 👀 I’m interested in programing.
-- 🌱 I’m currently learning Reponsive Web Design
+- 👀 Some of my interest are reading and learning new languages 
+- 🌱 I’m currently C
 
 <!---
 Lizz3108/Lizz3108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
