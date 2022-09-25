@@ -2,7 +2,7 @@
 
 <h2 align="center"> Aspiring Full-Stack Web Developer 💻 </h2>
 
-Currently on my first trimester in Holberton School, Puerto Rico. I love connecting and meeting new people.
+<p align="center"> Currently on my first trimester in Holberton School, Puerto Rico. I love connecting and meeting new people. </p>
 
 ## 🌱I'm currently learning 
 
