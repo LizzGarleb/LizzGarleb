@@ -11,9 +11,8 @@
 
 ## 📈GitHub Stats
 
-![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizz3108&theme=tokyonight)
+![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108&theme=tokyonight)
 
 ## 🤝Connect with me:
 <a align ="left" href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a/"><img src="https://user-images.githubusercontent.com/96942307/192124075-6f081953-5fc0-4a73-8e7c-620b88b5a0f9.svg" width = 40px></a>
