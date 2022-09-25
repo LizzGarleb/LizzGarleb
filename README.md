@@ -1,10 +1,3 @@
-radical: {
-    title_color: "fe428e",
-    icon_color: "f8d847",
-    text_color: "a9fef7",
-    bg_color: "141321",
-  },
-  
 <h3 align="center"> Hi there, I'm Lizbeth García 👋</h3>
 
 <h2 align="center"> Aspiring Full-Stack Web Developer 💻 </h2>
@@ -16,15 +9,15 @@ Currently on my first trimester in Holberton School, Puerto Rico. I love connect
 - C language
 - Shell basic commands
 
-### 🤝Connect with me:
+## 🤝Connect with me:
 
 - If you have any questions/feedbacks, please do not hesitate to reach out to me!
 
 ## 📈GitHub Stats
 
-[![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108)](https://github.com/Lizz3108/github-readme-stats&theme=tokyonight)
+[![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizz3108&theme=tokyonight)
+[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizz3108&theme=tokyonight)
 
 
 
