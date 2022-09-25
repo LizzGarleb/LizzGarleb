@@ -11,10 +11,12 @@
 
 ## 🤝Connect with me:
 
-![mail](https://user-images.githubusercontent.com/96942307/192123595-5ff7f3c9-63ee-424e-9725-5432d211e19c.svg)
-![linkedin](https://user-images.githubusercontent.com/96942307/192123596-c34c59c6-6853-4cde-a10f-98389e1687d0.svg)
-![instagram](https://user-images.githubusercontent.com/96942307/192123597-407201b0-4730-46c7-aa25-9d6fce3f7ceb.svg)
-![mail](https://user-images.githubusercontent.com/96942307/192123600-f5d7bd04-7b9f-4f8f-92af-a3988272c81a.svg)
+<a href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a/">
+
+<a href="mailto: lizbethgarcialebron@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+
+<a href="https://www.instagram.com/lizzgarleb/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
 
 - If you have any questions/feedbacks, please do not hesitate to reach out to me!
 
