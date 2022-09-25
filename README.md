@@ -22,9 +22,9 @@
 
 ## 📈GitHub Stats
 
-[![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108&theme=tokyonight)
+![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108&theme=tokyonight)
 
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizz3108&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizz3108&theme=tokyonight)
 
 
 
