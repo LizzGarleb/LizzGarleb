@@ -15,9 +15,17 @@
 ![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108&theme=tokyonight)
 
 ## 🤝Connect with me:
-<a align ="left" href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a/"><img src="https://user-images.githubusercontent.com/96942307/192124075-6f081953-5fc0-4a73-8e7c-620b88b5a0f9.svg" width = 40px></a>
-<a align ="left" href="mailto: lizbethgarcialebron@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<a align="left" href="https://www.instagram.com/lizzgarleb/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
+<a align ="left" href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<a align ="left" href="mailto: lizbethgarcialebron@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+<a align="left" href="https://www.instagram.com/lizzgarleb/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 - If you have any questions/feedbacks, please do not hesitate to reach out to me!
 <!---
