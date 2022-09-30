@@ -9,14 +9,6 @@
 - C language
 - Shell basic commands
 
-## 📈GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizz3108&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lizz3108&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
-
-![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108&theme=tokyonight)
-
 ## 🤝Connect with me:
 <a align ="center" href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -34,6 +26,14 @@
   
  ## :memo: Blogs
 - [How to list files with the extension "​.c" in the current directory](https://www.linkedin.com/pulse/how-list-files-extension-c-current-directory-lizbeth-garcia/?trackingId=mKwjGJx5QGSu2v8o3oH3sA%3D%3D)
+
+## 📈GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizz3108&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lizz3108&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
+![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108&theme=tokyonight)
 
 <!---
 Lizz3108/Lizz3108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
