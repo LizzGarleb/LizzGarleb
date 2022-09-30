@@ -7,7 +7,7 @@
 ## 🌱I'm currently learning 
 
 - C language
-- Shell basic commands
+- Soft Skills
 
 ## 🤝Connect with me:
 <a align ="center" href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a/">
