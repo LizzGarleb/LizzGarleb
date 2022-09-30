@@ -11,8 +11,10 @@
 
 ## 📈GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lizz3108&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizz3108&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lizz3108&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
 ![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108&theme=tokyonight)
 
 ## 🤝Connect with me:
