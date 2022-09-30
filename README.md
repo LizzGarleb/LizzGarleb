@@ -26,6 +26,7 @@
 <a align="center" href="https://www.instagram.com/lizzgarleb/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+  
 - If you have any questions/feedbacks, please do not hesitate to reach out to me!
   
  ## :memo: Blogs
