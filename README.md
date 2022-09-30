@@ -15,11 +15,15 @@
 </a>
 
 <a align ="center" href="mailto: lizbethgarcialebron@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 <a align="center" href="https://www.instagram.com/lizzgarleb/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a target="_blank"href="https://twitter.com/LizzGarleb">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
   
 - If you have any questions/feedbacks, please do not hesitate to reach out to me!
