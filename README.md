@@ -1,8 +1,7 @@
-<h3 align="center"> Hi there, I'm Lizbeth García 👋</h3>
+![Banner](https://user-images.githubusercontent.com/96942307/193466308-c4f6a930-8ac9-49fd-a950-eb553ec861a5.png)
 
-<h2 align="center"> Aspiring Full-Stack Web Developer 💻 </h2>
 
-<p align="center"> Currently on my first trimester in Holberton School, Puerto Rico. I love connecting and meeting new people. </p>
+<p align="center"> On my first trimester in Holberton School, Puerto Rico. I love connecting and meeting new people. </p>
 
 ## 🌱I'm currently learning 
 
