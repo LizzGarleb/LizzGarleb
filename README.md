@@ -20,7 +20,7 @@
 </a>
 </h3>
 
-## 🌱I'm currently learning 
+## 🌱 I'm currently learning 
 
 - C language
 - Soft Skills
