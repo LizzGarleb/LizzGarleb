@@ -2,42 +2,40 @@
 
 
 <p align="center"> On my first trimester in Holberton School, Puerto Rico. I love connecting and meeting new people. </p>
+<h3 align="center">
+<a href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<a href="mailto: lizbethgarcialebron@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/lizzgarleb/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/LizzGarleb">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+</h3>
 
 ## 🌱I'm currently learning 
 
 - C language
 - Soft Skills
-
-## 🤝Connect with me:
-<a align ="center" href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-<a align ="center" href="mailto: lizbethgarcialebron@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a align="center" href="https://www.instagram.com/lizzgarleb/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a align="center" href="https://twitter.com/LizzGarleb">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-  
-- If you have any questions/feedbacks, please do not hesitate to reach out to me!
   
  ## :memo: Blogs
 - [How to list files with the extension "​.c" in the current directory](https://www.linkedin.com/pulse/how-list-files-extension-c-current-directory-lizbeth-garcia/?trackingId=mKwjGJx5QGSu2v8o3oH3sA%3D%3D)
 
 ## 📈GitHub Stats
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizz3108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lizz3108" width=400 height=180/></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizz3108&theme=tokyonight)
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=lizz3108&show_icons=true&theme=tokyonight" alt="lizz3108" width=400 height=180/></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lizz3108&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+<p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lizz3108&theme=tokyonight" alt="lizz3108" width= 400 height=150/> </p>
 
-![Lizbeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lizz3108&theme=tokyonight)
-
+- If you have any questions/feedbacks, please do not hesitate to reach out to me!
 <!---
 Lizz3108/Lizz3108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
