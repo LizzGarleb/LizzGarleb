@@ -20,12 +20,7 @@
 </a>
 </h3>
 
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Lizz3108/count.svg" />
-</p>
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 🌱 I'm currently learning 
 
