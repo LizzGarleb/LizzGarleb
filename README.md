@@ -22,12 +22,23 @@
 
 ![Snake animation](https://github.com/Lizz3108/Lizz3108/blob/output/github-contribution-grid-snake.svg)
 
-## 🌱 I'm currently learning 
+## 🌱 Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-- C language
-- Soft Skills
-  
- ## :memo: Blogs
+ ## 🧰 Tools
+ ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+ ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ <img src="http://img.shields.io/badge/-VAGRANT-blue?style=flat&logo=VAGRANT">
+ <img src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX">
+ 
+ 
+ ## 📝 Blogs
 - [How to list files with the extension "​.c" in the current directory](https://www.linkedin.com/pulse/how-list-files-extension-c-current-directory-lizbeth-garcia/?trackingId=mKwjGJx5QGSu2v8o3oH3sA%3D%3D)
 
 ## 📈GitHub Stats
