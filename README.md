@@ -1,21 +1,20 @@
-![Banner](https://user-images.githubusercontent.com/96942307/193466308-c4f6a930-8ac9-49fd-a950-eb553ec861a5.png){:target="\_blank"}
-
+![Banner](https://user-images.githubusercontent.com/96942307/193466308-c4f6a930-8ac9-49fd-a950-eb553ec861a5.png)
 
 <p align="center"> On my first trimester in Holberton School, Puerto Rico. I love connecting and meeting new people. </p>
 <h3 align="center">
-<a href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a" target="_blank">
+<a href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-<a href="mailto: lizbethgarcialebron@gmail.com" target="_blank">
+<a href="mailto: lizbethgarcialebron@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/lizzgarleb/" target="_blank">
+<a href="https://www.instagram.com/lizzgarleb/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/LizzGarleb" target="_blank"/>
+<a href="https://twitter.com/LizzGarleb">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 </h3>
@@ -41,7 +40,7 @@
 
  ## 🧰 Tools
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
- <a href="https://codepen.io/Lizz31" target="_blank"/>
+ <a href="https://codepen.io/Lizz31">
  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
  </a>
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
