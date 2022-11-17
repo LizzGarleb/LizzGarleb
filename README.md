@@ -46,13 +46,34 @@
 - [How to list files with the extension "​.c" in the current directory](https://www.linkedin.com/pulse/how-list-files-extension-c-current-directory-lizbeth-garcia/?trackingId=mKwjGJx5QGSu2v8o3oH3sA%3D%3D)
 
 ## 📈GitHub Stats
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizz3108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lizz3108" width=400 height=180/></p>
+
+<details><summary><h3> :fire: Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lizz3108&theme=tokyonight" alt="lizz3108" width= 400 height=150/></p>
+
+</details>
+
+<details><summary><h3> :e-mail: Top Language </h3></summary>
+
+----
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizz3108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lizz3108" width=400 height=180/></p>
+
+</details>
+
+<details><summary><h3> :bar_chart: Github Profile Stats </h3></summary>
+
+----
 
 <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=lizz3108&show_icons=true&theme=tokyonight" alt="lizz3108" width=400 height=180/></p>
 
-<p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lizz3108&theme=tokyonight" alt="lizz3108" width= 400 height=150/> </p>
+</details>
 
-- If you have any questions/feedbacks, please do not hesitate to reach out to me!
+<br><br>
+
+
 <!---
 Lizz3108/Lizz3108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
