@@ -22,6 +22,10 @@
 
 ![Snake animation](https://github.com/Lizz3108/Lizz3108/blob/output/github-contribution-grid-snake.svg)
 
+<h3 align="center">
+<img src="https://profile-counter.glitch.me/Lizz3108/count.svg"/>
+</h3>
+
 ## ⛄ About Me
 - 📚 Holberton Student on my first trimester
 - ❄️ I'm currently learning `Figma & Web 3.0'
@@ -53,7 +57,7 @@
 
 ## 📈GitHub Stats
 
-<details><summary><h3> :fire: Streak Stats</h3></summary>
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
