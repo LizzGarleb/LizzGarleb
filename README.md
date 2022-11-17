@@ -22,11 +22,12 @@
 
 ![Snake animation](https://github.com/Lizz3108/Lizz3108/blob/output/github-contribution-grid-snake.svg)
 
-## :snowman: About Me
+## ⛄ About Me
 - 📚 Holberton Student on my first trimester
-- :snowflake: I'm currently learning `Figma & Web 3.0'
+- ❄️ I'm currently learning `Figma & Web 3.0'
 - 📍 I'm currently located in Puerto Rico
-- Fun Fact: I love to read books & listen to music
+- 📅 2023 Goals: Contribute to Open Source project
+- 🎢 Fun Fact: I love to read books & listen to music
 
 ## 🌱 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
