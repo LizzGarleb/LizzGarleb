@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/96942307/193466308-c4f6a930-8ac9-49fd-a950-eb553ec861a5.png)
+![Banner](https://user-images.githubusercontent.com/96942307/193466308-c4f6a930-8ac9-49fd-a950-eb553ec861a5.png){:target="\_blank"}
 
 
 <p align="center"> On my first trimester in Holberton School, Puerto Rico. I love connecting and meeting new people. </p>
