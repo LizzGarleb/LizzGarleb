@@ -54,25 +54,34 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lizz3108&theme=tokyonight" alt="Streak Stats"/></p>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lizz3108&theme=tokyonight" alt="Streak Stats"/></p>
 
 </details>
 
-<details><summary><h3> :e-mail: Top Language </h3></summary>
+<details><summary><h3> 📧 Top Language </h3></summary>
 
 ----
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lizz3108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Language" width=600 height=180/></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lizz3108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Language" width=600 height=180/></p>
 
 </details>
 
-<details><summary><h3> :bar_chart: Github Profile Stats </h3></summary>
+<details><summary><h3> 📊 Github Profile Stats </h3></summary>
 
 ----
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lizz3108&show_icons=true&theme=tokyonight" alt="Github Profile Stats"/></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lizz3108&show_icons=true&theme=tokyonight" alt="Github Profile Stats"/></p>
 
 </details>
+
+<!--START_SECTION:waka-->
+<details><summary><h3> 🕐 Waka Time </h3></summary>
+  
+----
+  
+  <p align="center"><img src="" alt="Waka Time"/></p>
+  
+</details>
+<!--END_SECTION:waka-->
 
 <br><br>
 
