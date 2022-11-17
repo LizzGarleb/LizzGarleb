@@ -51,7 +51,7 @@
 
 ----	
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lizz3108&theme=tokyonight" alt="lizz3108" width= 400 height=150/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lizz3108&theme=tokyonight" alt="Streak Stats"/></p>
 
 </details>
 
@@ -59,7 +59,7 @@
 
 ----
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lizz3108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lizz3108" width=400 height=180/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lizz3108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Language" width=600 height=180/></p>
 
 </details>
 
@@ -67,7 +67,7 @@
 
 ----
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=lizz3108&show_icons=true&theme=tokyonight" alt="lizz3108" width=400 height=180/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lizz3108&show_icons=true&theme=tokyonight" alt="Github Profile Stats"/></p>
 
 </details>
 
