@@ -47,6 +47,7 @@
  
  ## 📝 Blogs
 - [How to list files with the extension "​.c" in the current directory](https://www.linkedin.com/pulse/how-list-files-extension-c-current-directory-lizbeth-garcia/?trackingId=mKwjGJx5QGSu2v8o3oH3sA%3D%3D)
+- [How are integers stored in the memory using two components?](https://www.linkedin.com/pulse/how-integers-stored-memory-using-two-components-lizbeth-garcia/?trackingId=0heWUj5aQ3%2BVNZW7aZMlNg%3D%3D)
 
 ## 📈GitHub Stats
 
