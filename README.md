@@ -40,21 +40,22 @@
 
  ## 🧰 Tools
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
- <a href="https://codepen.io/Lizz31">
- <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
- </a>
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  <img src="http://img.shields.io/badge/-VAGRANT-blue?style=flat&logo=VAGRANT">
  <img src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX">
  
+ ## 💎 Showcase 
+ <a href="https://codepen.io/Lizz31">
+ <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+ </a>
  
  ## 📝 Blogs
 - [How to list files with the extension "​.c" in the current directory](https://www.linkedin.com/pulse/how-list-files-extension-c-current-directory-lizbeth-garcia/?trackingId=mKwjGJx5QGSu2v8o3oH3sA%3D%3D)
 - [How are integers stored in the memory using two components?](https://www.linkedin.com/pulse/how-integers-stored-memory-using-two-components-lizbeth-garcia/?trackingId=0heWUj5aQ3%2BVNZW7aZMlNg%3D%3D)
 
-## 📈GitHub Stats
+## 📈 GitHub Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
@@ -79,7 +80,7 @@
 
 </details>
 
-<details><summary><h3> :trophy: Github Profile Trophy </h3></summary>
+<details><summary><h3> 🏆 Github Profile Trophy </h3></summary>
 
 ----
 
@@ -87,7 +88,7 @@
 
 </details>
 
-<details><summary><h3> :moon: Contribution graph </h3></summary>
+<details><summary><h3> 🌔 Contribution graph </h3></summary>
 
 ----
 ![Profile Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
