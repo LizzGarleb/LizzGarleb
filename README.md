@@ -87,7 +87,7 @@
 
 </details>
 
-<details><summary><h3> Contribution graph </h3></summary>
+<details><summary><h3> :moon: Contribution graph </h3></summary>
 
 ----
 ![Profile Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
