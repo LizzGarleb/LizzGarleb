@@ -79,6 +79,14 @@
 
 </details>
 
+<details><summary><h3> :trophy: Github Profile Trophy </h3></summary>
+
+----
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Lizz3108)
+
+</details>
+
 <br><br>
 
 
