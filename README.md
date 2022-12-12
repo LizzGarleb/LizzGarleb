@@ -67,16 +67,16 @@
 
 <details><summary><h3> 📧 Top Language </h3></summary>
 
-----
-
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lizz3108&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Language" width=600 height=180/></p>
+----  
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizz3108&show_icons=true&theme=tokyonight" alt="Github Profile Stats"/></p>
 
 </details>
 
 <details><summary><h3> 📊 Github Profile Stats </h3></summary>
 
 ----
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lizz3108&show_icons=true&theme=tokyonight" alt="Github Profile Stats"/></p>
+  
+  <p align="center"><img width=400 src='https://github-readme-stats.vercel.app/api?username=lizz3108&theme=tokyonight&show_icons=true&hide_border=true&count_private=true'/></p>
 
 </details>
 
