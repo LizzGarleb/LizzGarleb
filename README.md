@@ -57,6 +57,13 @@
 - [How to list files with the extension "​.c" in the current directory](https://www.linkedin.com/pulse/how-list-files-extension-c-current-directory-lizbeth-garcia/?trackingId=mKwjGJx5QGSu2v8o3oH3sA%3D%3D)
 - [How are integers stored in the memory using two components?](https://www.linkedin.com/pulse/how-integers-stored-memory-using-two-components-lizbeth-garcia/?trackingId=0heWUj5aQ3%2BVNZW7aZMlNg%3D%3D)
 
+## 🏗️ Major projects worked on
+| Project Name | Description                                                                                                                                 |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Printf](https://github.com/Lizz3108/holbertonschool-printf)       | A replica from the printf function. Function that can take multiple data type and print their value.                                        |
+| ![Simple Shell](https://github.com/Lizz3108/holbertonschool-simple_shell) | Designed and developed a shell with system calls, and zero memory leaks that could accept input from multiple commands and signal handling. |
+| ![Monty](https://github.com/MelissaAT/holbertonschool-monty)        | Interpreter for Monty Byte Codes files.                                                                                                     |
+
 ## 📈 GitHub Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
