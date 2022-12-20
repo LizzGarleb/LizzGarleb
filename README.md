@@ -33,30 +33,54 @@
 - 🎢 Fun Fact: I love to read books & listen to music
 
 ## 🌱 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
- <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/><br>
+<a href="#">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+  </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+</a>
+<a href="#">
+ <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
+</a>
 
  ## 🧰 Tools
- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
- ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
- <img src="http://img.shields.io/badge/-VAGRANT-blue?style=flat&logo=VAGRANT">
- <img src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX">
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
- 
+ <a href="#">
+  <imr src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+ </a>
+  <a href="#">
+  <imr src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
+ </a>
+  <a href="#">
+  <imr src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+ </a>
+  <a href="#">
+  <imr src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+ </a>
+  <a href="#">
+  <imr src="http://img.shields.io/badge/-VAGRANT-blue?style=flat&logo=VAGRANT" alt="Vagrant"/>
+ </a>
+  <a href="#">
+  <imr src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX" alt="Linux"/>
+ </a>
+  <a href="#">
+  <imr src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+ </a>
+  <a href="#">
+  <imr src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+ </a>
+
  ## 💎 Showcase 
  <a href="https://codepen.io/Lizz31">
- <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
  </a>
  <a href="https://vercel.com/lizz3108">
- <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
  <a href="#">
- <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-  </a>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+ </a>
  
  ## 📝 Blogs
 - [How to list files with the extension "​.c" in the current directory](https://www.linkedin.com/pulse/how-list-files-extension-c-current-directory-lizbeth-garcia/?trackingId=mKwjGJx5QGSu2v8o3oH3sA%3D%3D)
