@@ -19,10 +19,10 @@
 </a>
 </h3>
 
-![Snake animation](https://github.com/Lizz3108/Lizz3108/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lizz3108/LizzGarleb/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">
-<img src="https://profile-counter.glitch.me/Lizz3108/count.svg"/>
+<img src="https://profile-counter.glitch.me/LizzGarleb/count.svg"/>
 </h3>
 
 ## ⛄ About Me
@@ -84,14 +84,14 @@
 
 ----	
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lizz3108&theme=tokyonight" alt="Streak Stats"/></p>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LizzGarleb&theme=tokyonight" alt="Streak Stats"/></p>
 
 </details>
 
 <details><summary><h3> 📧 Top Language </h3></summary>
 
 ----  
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizz3108&show_icons=true&theme=tokyonight" alt="Github Profile Stats"/></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizzGarleb&show_icons=true&theme=tokyonight" alt="Github Profile Stats"/></p>
 
 </details>
 
@@ -99,7 +99,7 @@
 
 ----
   
-  <p align="center"><img src='https://github-readme-stats.vercel.app/api?username=lizz3108&theme=tokyonight&show_icons=true&count_private=true'/></p>
+  <p align="center"><img src='https://github-readme-stats.vercel.app/api?username=LizzGarleb&theme=tokyonight&show_icons=true&count_private=true'/></p>
 
 </details>
 
@@ -107,7 +107,7 @@
 
 ----
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Lizz3108)
+![trophy](https://github-profile-trophy.vercel.app/?username=LizzGarleb)
 
 </details>
 
