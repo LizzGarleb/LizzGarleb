@@ -19,7 +19,7 @@
 </a>
 </h3>
 
-![Snake animation](https://github.com/Lizz3108/LizzGarleb/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LizzGarleb/LizzGarleb/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">
 <img src="https://profile-counter.glitch.me/LizzGarleb/count.svg"/>
