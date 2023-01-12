@@ -90,8 +90,8 @@
 
 <details><summary><h3> 📧 Top Language </h3></summary>
 
-----  
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizzGarleb&show_icons=true&theme=tokyonight" alt="Github Profile Stats"/></p>
+----
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizzGarleb&theme=tokyonight" alt="Github Profile Stats"/></p>
 
 </details>
 
