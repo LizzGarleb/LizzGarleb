@@ -55,6 +55,7 @@
  <img src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX">
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+ ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
  ## 💎 Showcase 
  <a href="https://codepen.io/Lizz31">
