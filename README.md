@@ -27,7 +27,7 @@
 
 ## ⛄ About Me
 - 📚 Holberton Student on my first trimester
-- ❄️ I'm currently learning `Figma & Web 3.0'
+- ❄️ I'm currently learning `Java Script & Web 3.0'
 - 📍 I'm currently located in Puerto Rico
 - 📅 2023 Goals: Contribute to Open Source project
 - 🎢 Fun Fact: I love to read books & listen to music
