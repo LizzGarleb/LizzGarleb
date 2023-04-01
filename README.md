@@ -26,7 +26,7 @@
 </h3>
 
 ## ⛄ About Me
-- 📚 Holberton Student on my second trimester
+- 📚 Holberton Student on my third trimester
 - ❄️ I'm currently learning `Java Script & Web 3.0'
 - 📍 I'm currently located in Puerto Rico
 - 📅 2023 Goals: Contribute to Open Source project
