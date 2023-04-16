@@ -10,14 +10,6 @@
 <a href="mailto: lizbethgarcialebron@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<a href="https://www.instagram.com/lizzgarleb/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/LizzGarleb">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 </h3>
 
 <!-- Snake Animation Section -->
@@ -37,7 +29,7 @@
 - 🎢 Fun Fact: I love to read books & listen to music
 
 <!-- Languages Section -->
-## Languages
+## :book: Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,8 +42,11 @@
 
 
 <!-- Frameworks, Libraries Sections -->
-## Frameworks, Platforms and Libraries
+## :telescope: Frameworks, Platforms and Libraries
 
+![Mapbox](https://img.shields.io/badge/Mapbox-000000.svg?style=for-the-badge&logo=Mapbox&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport-34E27A.svg?style=for-the-badge&logo=Passport&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -62,12 +57,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- Databases Sections -->
-## Databases
+## :bar_chart: Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- IDEs Editors Sections -->
-## IDEs, Editors
+## :pencil: IDEs, Editors
 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -75,27 +70,28 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 <!-- Hosting Section -->
-## Hosting
+## :globe_with_meridians: Hosting
 
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <!-- Operating Systems Section -->
-## Operating Systems
+## :computer: Operating Systems
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 <!-- Creative Section -->
-## Creative Design
+## :milky_way: Creative Design
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4.svg?style=for-the-badge&logo=Google-Fonts&logoColor=white)
 
 <!-- Virtual Machine Section -->
-## Virtual Machine 
+## :e-mail: Virtual Machine
 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
@@ -109,14 +105,14 @@
 
 
 <!-- Blogs Sections -->
- ## Blogs
+ ## :lock_with_ink_pen: Blogs
  
 - [Python - Everything is an object](https://www.linkedin.com/pulse/python-everything-object-lizbeth-garcia/?trackingId=VAXcd53hRsWekfZyFrg1Fw%3D%3D)
 - [How to list files with the extension "​.c" in the current directory](https://www.linkedin.com/pulse/how-list-files-extension-c-current-directory-lizbeth-garcia/?trackingId=mKwjGJx5QGSu2v8o3oH3sA%3D%3D)
 - [How are integers stored in the memory using two components?](https://www.linkedin.com/pulse/how-integers-stored-memory-using-two-components-lizbeth-garcia/?trackingId=0heWUj5aQ3%2BVNZW7aZMlNg%3D%3D)
 
 <!-- Github Stats Sections -->
-## 📈 GitHub Stats
+## :bar_chart: GitHub Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
