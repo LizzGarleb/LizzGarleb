@@ -94,6 +94,7 @@
 <!-- Virtual Machine Section -->
 ## :e-mail: Virtual Machine
 
+![Virtual Box](https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
 <!-- Major Projects Sections -->
