@@ -1,5 +1,6 @@
 <!-- Banner Section -->
-![Banner](https://user-images.githubusercontent.com/96942307/193466308-c4f6a930-8ac9-49fd-a950-eb553ec861a5.png)
+![Banner](https://user-images.githubusercontent.com/96942307/234153838-04345626-5e0e-4f6b-ba7c-ab53a2b28ef9.png)
+
 
 <!-- Contact Me Section -->
 <h3 align="center">
