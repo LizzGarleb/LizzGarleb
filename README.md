@@ -11,11 +11,9 @@
 <a href="mailto: lizbethgarcialebron@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
- 
-<a href="https://github.com/LizzGarleb/LizzGarleb/files/11315762/Lizbeth-Garcia.pdf">
-<img src="https://img.shields.io/badge/RESUME-important?style=for-the-badge">
-</a>
 </h3>
+
+[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Jhonatan_Rivera.pdf)
 
 <!-- Snake Animation Section -->
 ![Snake animation](https://github.com/LizzGarleb/LizzGarleb/blob/output/github-contribution-grid-snake.svg)
