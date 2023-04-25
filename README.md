@@ -3,17 +3,10 @@
 
 
 <!-- Contact Me Section -->
-<h3 align="center">
-<a href="https://www.linkedin.com/in/lizbeth-garcia-53657a22a">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizbethgarcialebron@gmail.com)
+[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Lizbeth-Garcia.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizbeth-garcia-53657a22a/)
 
-<a href="mailto: lizbethgarcialebron@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</h3>
-
-[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Jhonatan_Rivera.pdf)
 
 <!-- Snake Animation Section -->
 ![Snake animation](https://github.com/LizzGarleb/LizzGarleb/blob/output/github-contribution-grid-snake.svg)
