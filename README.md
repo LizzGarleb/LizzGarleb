@@ -102,8 +102,9 @@
 | ![Simple Shell](https://github.com/Lizz3108/holbertonschool-simple_shell) | Designed and developed a shell with system calls, and zero memory leaks that could accept input from multiple commands and signal handling. |
 | ![Monty](https://github.com/MelissaAT/holbertonschool-monty)        | Interpreter for Monty Byte Codes files.                                                                                                     |
 ## ✈️ Technical & Non-Technical Articles
-![Journey of a Jr. Full Stack Software Engineer: Embracing the Journey of Tech Exploration and Growth](https://www.linkedin.com/pulse/journey-jr-full-stack-software-engineer-embracing-tech-lizbeth-garcia)
-![Understanding Object Oriented Programming through story telling](https://medium.com/@LizzGarleb/understanding-object-oriented-programming-through-story-telling-18dfe36ccb0)
+- ![Journey of a Jr. Full Stack Software Engineer: Embracing the Journey of Tech Exploration and Growth](https://www.linkedin.com/pulse/journey-jr-full-stack-software-engineer-embracing-tech-lizbeth-garcia)
+
+- ![Understanding Object Oriented Programming through story telling](https://medium.com/@LizzGarleb/understanding-object-oriented-programming-through-story-telling-18dfe36ccb0)
 
 <!-- Github Stats Sections -->
 ## :bar_chart: GitHub Stats
