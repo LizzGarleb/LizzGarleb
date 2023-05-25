@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizbethgarcialebron@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Lizbeth-Garcia.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizbeth-garcia-53657a22a/)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@LizzGarleb)
 
 <!-- Snake Animation Section -->
 ![Snake animation](https://github.com/LizzGarleb/LizzGarleb/blob/output/github-contribution-grid-snake.svg)
