@@ -19,10 +19,10 @@
 
 <!-- About Me Section -->
 ## ⛄ About Me
-- 📚 Holberton Student on my third trimester
-- ❄️ I'm currently learning `Java Script & Web 3.0'
-- 📍 I'm currently located in Puerto Rico
-- 📅 2023 Goals: Contribute to Open Source project
+- 📚 Holberton Student graduated. Currently Specializing in Machine Learning
+- ❄️ I'm currently learning `ML|AI & Web 3.0'
+- 📍 I'm currently located in Puerto Rico.
+- 📅 Open to relocation
 - 🎢 Fun Fact: I love to read books & listen to music
 
 <!-- Languages Section -->
