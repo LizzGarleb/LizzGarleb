@@ -4,13 +4,10 @@
 
 <!-- Contact Me Section -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lizbethgarcialebron@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)](./Lizbeth-Garcia.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-important?style=for-the-badge)]()
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizbeth-garcia-53657a22a/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@LizzGarleb)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithlizz/)
-
-<!-- Snake Animation Section -->
-![Snake animation](https://github.com/LizzGarleb/LizzGarleb/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Profile Counter Section -->
 <h3 align="center">
@@ -20,7 +17,7 @@
 <!-- About Me Section -->
 ## ⛄ About Me
 - 📚 Holberton Student graduated. Currently Specializing in Machine Learning
-- ❄️ I'm currently learning `ML|AI & Web 3.0'
+- ❄️ I'm currently learning `Machine Learning'
 - 📍 I'm currently located in Puerto Rico.
 - 📅 Open to relocation
 - 🎢 Fun Fact: I love to read books & listen to music
