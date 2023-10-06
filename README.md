@@ -110,6 +110,8 @@
 - ![Journey of a Jr. Full Stack Software Engineer: Embracing the Journey of Tech Exploration and Growth](https://www.linkedin.com/pulse/journey-jr-full-stack-software-engineer-embracing-tech-lizbeth-garcia)
 
 - ![Understanding Object Oriented Programming through story telling](https://medium.com/@LizzGarleb/understanding-object-oriented-programming-through-story-telling-18dfe36ccb0)
+  
+- ![Mastering Regularization Techniques: Safeguarding Machine Learning Models Against Overfitting](https://medium.com/@LizzGarleb/mastering-regularization-techniques-safeguarding-machine-learning-models-against-overfitting-f4bccc039e38)
 
 <!-- Github Stats Sections -->
 ## :bar_chart: GitHub Stats
