@@ -8,7 +8,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lizbeth-garcia-53657a22a/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@LizzGarleb)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithlizz/)
-[![Cloud Native Community](https://img.shields.io/badge/CNCF-231F20.svg?style=for-the-badge&logo=CNCF&logoColor=white)](https://community.cncf.io/u/mpmy9t/)
+[![CNCF Badge](https://img.shields.io/badge/CNCF-231F20.svg?style=for-the-badge&logo=CNCF&logoColor=white)](https://community.cncf.io/u/mpmy9t/#/about)
+
+
 
 <!-- Profile Counter Section -->
 <h3 align="center">
