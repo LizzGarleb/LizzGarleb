@@ -136,22 +136,6 @@
 
 </details>
 
-<details><summary><h3> 📊 Github Profile Stats </h3></summary>
-
-----
-  
-  <p align="center"><img src='https://github-readme-stats.vercel.app/api?username=LizzGarleb&theme=tokyonight&show_icons=true&count_private=true'/></p>
-
-</details>
-
-<details><summary><h3> 🏆 Github Profile Trophy </h3></summary>
-
-----
-
-![trophy](https://github-profile-trophy.vercel.app/?username=LizzGarleb)
-
-</details>
-
 <details><summary><h3> 🌔 Contribution graph </h3></summary>
 
 ----
