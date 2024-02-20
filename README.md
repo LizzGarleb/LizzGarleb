@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-![Banner](https://user-images.githubusercontent.com/96942307/234153838-04345626-5e0e-4f6b-ba7c-ab53a2b28ef9.png)
+![Github Banner](https://github.com/LizzGarleb/LizzGarleb/assets/96942307/44bd2f2f-1a72-48a9-91c1-d06f77d12c62)
 
 
 <!-- Contact Me Section -->
@@ -19,11 +19,11 @@
 
 <!-- About Me Section -->
 ## ⛄ About Me
-- 📚 Holberton Student graduated. Currently Specializing in Machine Learning
-- ❄️ I'm currently learning `Machine Learning'
-- 📍 I'm currently located in Puerto Rico.
-- 📅 Open to relocation
-- 🎢 Fun Fact: I love to read books & listen to music
+- 🌐 Open for collaborations! Let's build cool projects together!
+- 🎹 Learning piano keys & French phrases in my downtime.
+- ☀️ Based in the sunny shores of Puerto Rico - where every day feels like a vacation!
+- 📚 Bookworm by night, coding ninja by day!
+- ✈️ Jetsetter coding from different time zones – turning airports into my temporary coding sanctuaries!
 
 <!-- Languages Section -->
 ## :book: Languages
